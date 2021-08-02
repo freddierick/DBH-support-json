@@ -11,6 +11,26 @@
         {
             "message": "Something went wrong",
             "response": "Try reloading your page, if this does not work the node your server is on is probably under downtime."
+        },
+        {
+            "message": "another power action is currently being processed for this server, please try again later",
+            "response": "If your server is online and you can't stop it, click on the KILL button. This will force the panel to turn off your server. If you can't start it wait a few minutes and try again!"
+        },
+        {
+            "message": "Detected server process in a crashed state!",
+            "response": "Try checking in the startup tab if your startup file is valid and it exist. Check for any error in your code."
+        },
+        {
+            "message": "There was an error while communicating with the machine running this server. This error has been logged, please try again.",
+            "response": "Try reloading your page, if this does not work the node your server is on is probably under downtime."
+        },
+        {
+            "message": "Bad gateway",
+            "response": "Try reloading your page, if this does not work the panel is probably under downtime."
+        },
+        {
+            "message": "Connection timed out",
+            "response": "Try reloading your page, if this does not work the panel is probably under downtime."
         }
     ]
 }
