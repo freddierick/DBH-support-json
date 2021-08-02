@@ -1,0 +1,16 @@
+{
+    "errorToSupport": [
+        {
+            "message": "We're having some trouble connecting to your server, please wait...",
+            "response": "Try reloading your page, if this does not work the node your server is on is probably under downtime."
+        },
+        {
+            "message": "Running Installer",
+            "response": "Try reloading the page, if this still shows after an hour the server is stuck installing, you need to delete it and create a new one."
+        },
+        {
+            "message": "Something went wrong",
+            "response": "Try reloading your page, if this does not work the node your server is on is probably under downtime."
+        }
+    ]
+}
