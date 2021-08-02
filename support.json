@@ -31,6 +31,10 @@
         {
             "message": "Connection timed out",
             "response": "Try reloading your page, if this does not work the panel is probably under downtime."
+        },
+        {
+            "message": "Can not find module",
+            "response": "Try doing npm install **yourmodule**"
         }
     ]
 }
