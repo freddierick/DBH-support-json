@@ -37,7 +37,7 @@
             "response": "Try doing npm install **yourmodule**"
         },
         {
-            "message": "ERR_SSL_PROTOCOL_ERROR",
+            "message": "This site can't provide a secure connection ERR_SSL_PROTOCOL_ERROR",
             "response": "Try using the numeric IP of the node, you can find the numeric IP of the node from the #faq"
         }
     ]
